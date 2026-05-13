@@ -5,7 +5,6 @@
 <br/>
 <br/>
 
-# NeuroFleetX
 ### AI-Driven Urban Mobility Optimization Platform
 
 <br/>
@@ -29,7 +28,7 @@ AI-based routing, bookings, and vehicle health analytics.**
 
 ## Overview
 
-**NeuroFleetX** is a full-stack urban mobility management system that enables administrators and drivers to efficiently manage fleets, optimize routes, monitor vehicle health, and handle bookings through intelligent, data-driven insights.
+full-stack urban mobility management system that enables administrators and drivers to efficiently manage fleets, optimize routes, monitor vehicle health, and handle bookings through intelligent, data-driven insights.
 
 The system integrates AI-assisted routing APIs and predictive analytics while providing elegant, role-based dashboards built with modern UI technologies.
 

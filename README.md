@@ -211,8 +211,3 @@ The system integrates AI-assisted routing APIs and predictive analytics while pr
 
 ---
 
-<div align="center">
-
-**NeuroFleetX – Optimizing Urban Mobility Through Intelligence**
-
-</div>
